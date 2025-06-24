@@ -10,10 +10,10 @@ const Footer = () => {
             <img 
               src="/lovable-uploads/6d75de89-7405-42fc-9813-ebecde8e9a71.png" 
               alt="College Logo" 
-              className="w-20 h-20 rounded-full object-cover border-2 border-blue-500"
+              className="w-20 h-20 rounded-full object-cover border-2 border-gray-600"
             />
             <div className="text-left">
-              <h3 className="text-xl font-bold text-blue-400 mb-1">Dr.T.Peddanna</h3>
+              <h3 className="text-xl font-bold text-blue-200 mb-1">Dr.T.Peddanna</h3>
               <p className="text-gray-300 mb-1">Principal(FAC)</p>
               <p className="text-gray-300 mb-1">📞 +91 9876543210</p>
               <p className="text-gray-300">📧 prl-gdc-mrtd-ce@telangana.gov.in</p>
@@ -21,7 +21,7 @@ const Footer = () => {
             <img 
               src="/lovable-uploads/Naveen.png" 
               alt="College Logo" 
-              className="w-20 h-20 rounded-full object-cover border-4 border-blue-500"
+              className="w-20 h-20 rounded-full object-cover border-2 border-gray-600"
             />
             <div className="text-left">
               <h3 className="text-xl font-bold text-blue-400 mb-1">Naveen</h3>
