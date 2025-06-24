@@ -82,7 +82,8 @@ const VideoCard = ({ id, title, description, vimeoUrl, isActive, onPlay, onPause
             <img 
               src="/lovable-uploads/6d75de89-7405-42fc-9813-ebecde8e9a71.png" 
               alt="College Logo" 
-              className="w-8 h-8 rounded-full object-cover"
+              className="w-20 h-20 rounded-full object-cover border-2 border-gray-600"
+              
             />
             <span className="text-sm text-gray-600 font-medium">
               {formatDate(date)}
