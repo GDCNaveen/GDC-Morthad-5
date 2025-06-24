@@ -13,7 +13,7 @@ const Footer = () => {
               className="w-20 h-20 rounded-full object-cover border-2 border-gray-600"
             />
             <div className="text-left">
-              <h4 className="text-xl font-bold text-white-400 mb-1">Dr.T.Peddanna</h4>
+              <h4 className="text-xl font-bold text-white-100 mb-1">Dr.T.Peddanna</h4>
               <p className="text-gray-300 mb-1">Principal(FAC)</p>
               <p className="text-gray-300 mb-1">📞 +91 9876543210</p>
               <p className="text-gray-300">📧 prl-gdc-mrtd-ce@telangana.gov.in</p>
