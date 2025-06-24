@@ -17,6 +17,10 @@ const Footer = () => {
               <p className="text-gray-300 mb-1">Principal(FAC)</p>
               <p className="text-gray-300 mb-1">📞 +91 9876543210</p>
               <p className="text-gray-300">📧 prl-gdc-mrtd-ce@telangana.gov.in</p>
+              <div className="flex items-center space-x-2">
+                    <Mail className="h-4 w-4 text-blue-400" />
+                    <span>prl-gdc-mrtd-ce@telangana.gov.in</span>
+                  </div>
             </div>
             <img 
               src="/lovable-uploads/Naveen.png" 
