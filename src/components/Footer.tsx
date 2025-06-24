@@ -37,15 +37,14 @@ const Footer = () => {
           <p className="text-white-400">
             © 2025 Government Degree College, Morthad. All rights reserved.
           </p>
-          <p className="text-gray-400 text-sm mt-2">
+          <p className="text-white-400 text-sm mt-2">
             Affiliated to Telangana University
           </p>
         </div>
 
         {/* Third Section - Additional Info */}
         <div className="text-center">
-          <span style="color: red; font-size: 24px;">♡</span>
-          <p className="text-gray-400 text-sm">
+         <p className="text-white-400 text-sm">
             ❤️Empowering students through quality education and innovative learning methods. 
             Join us in our mission to create future leaders and skilled professionals.
           </p>
