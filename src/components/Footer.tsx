@@ -24,7 +24,7 @@ const Footer = () => {
               className="w-20 h-20 rounded-full object-cover border-2 border-gray-600"
             />
             <div className="text-left">
-              <h4 className="text-xl font-bold text-white-400 mb-1">A. Naveen</h4>
+              <h4 className="text-xl text-white-400 mb-1">A. Naveen</h4>
               <p className="text-gray-300 mb-1">Founder and Educator</p>
               <p className="text-gray-300 mb-1">📞 +91 9494719306</p>
               <p className="text-gray-300">📧 algotnaveen@gmail.com</p>
@@ -45,7 +45,7 @@ const Footer = () => {
         {/* Third Section - Additional Info */}
         <div className="text-center">
          <p className="text-white-400 text-sm">
-            ❤️Empowering students through quality education and innovative learning methods. 
+            ♡❤️Empowering students through quality education and innovative learning methods. 
             Join us in our mission to create future leaders and skilled professionals.
           </p>
         </div>
