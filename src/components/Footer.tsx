@@ -15,8 +15,8 @@ const Footer = () => {
             <div className="text-left">
               <h3 className="text-xl font-bold text-blue-400 mb-1">Dr.T.Peddanna</h3>
               <p className="text-gray-300 mb-1">Principal(FAC)</p>
-              <p className="text-gray-300 mb-1">📞Cell No: 9876543210</p>
-              <p className="text-gray-300">📧Email: prl-gdc-mrtd-ce@telangana.gov.in</p>
+              <p className="text-gray-300 mb-1">📞 +91 9876543210</p>
+              <p className="text-gray-300">📧 prl-gdc-mrtd-ce@telangana.gov.in</p>
             </div>
             <img 
               src="/lovable-uploads/Naveen.png" 
@@ -26,8 +26,8 @@ const Footer = () => {
             <div className="text-left">
               <h3 className="text-xl font-bold text-blue-400 mb-1">Naveen</h3>
               <p className="text-gray-300 mb-1">Founder and Educator</p>
-              <p className="text-gray-300 mb-1">Cell No: 9494719306</p>
-              <p className="text-gray-300">Email: algotnaveen@gmail.com</p>
+              <p className="text-gray-300 mb-1">📞 +91 9494719306</p>
+              <p className="text-gray-300">📧 algotnaveen@gmail.com</p>
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ const Footer = () => {
         {/* Third Section - Additional Info */}
         <div className="text-center">
           <p className="text-gray-400 text-sm">
-            Empowering students through quality education and innovative learning methods. 
+            ❤️Empowering students through quality education and innovative learning methods. 
             Join us in our mission to create future leaders and skilled professionals.
           </p>
         </div>
