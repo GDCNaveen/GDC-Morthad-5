@@ -10,7 +10,7 @@ const Footer = () => {
             <img 
               src="/lovable-uploads/6d75de89-7405-42fc-9813-ebecde8e9a71.png" 
               alt="College Logo" 
-              className="w-20 h-20 rounded-full object-cover border-4 border-blue-500"
+              className="w-20 h-20 rounded-full object-cover border-2 border-blue-500"
             />
             <div className="text-left">
               <h3 className="text-xl font-bold text-blue-400 mb-1">Dr.T.Peddanna</h3>
