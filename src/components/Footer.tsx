@@ -45,7 +45,7 @@ const Footer = () => {
         {/* Third Section - Additional Info */}
         <div className="text-center">
           <p className="text-gray-400 text-sm">
-            ❤️Empowering students through quality education and innovative learning methods. 
+            <span style="color: red; font-size: 24px;">♡</span>❤️Empowering students through quality education and innovative learning methods. 
             Join us in our mission to create future leaders and skilled professionals.
           </p>
         </div>
